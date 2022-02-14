@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25416489743",
+    "project_id": "imagetexttranslatorsgr",
+    "storage_bucket": "imagetexttranslatorsgr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25416489743:android:b9149a342119f151d53c7a",
+        "android_client_info": {
+          "package_name": "com.example.imagetexttranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25416489743-g38knuqqpalm9v43ii2tnpadqu3s9a3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagetexttranslator",
+            "certificate_hash": "a61983fad2f4efee2d4407b536d85b256b619e78"
+          }
+        },
+        {
+          "client_id": "25416489743-1rcd4p9frs4pe95e64jp480gth5mq933.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99PUnV8Va3P57ZYlpF-Zt_C7Ayga7Kg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25416489743-1rcd4p9frs4pe95e64jp480gth5mq933.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
